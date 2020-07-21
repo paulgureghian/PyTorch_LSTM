@@ -13,7 +13,7 @@ class Model(nn.Module):
         self.embedding_dim = 128
         self.num_layers = 3
 
-        n_vocab = len(dataset.uniq_words)
+        n_vocab = len(dataset.unique_words)
         
         self.embedding = nn.Embedding(
             
