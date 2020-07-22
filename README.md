@@ -17,6 +17,6 @@ The dataset used was https://raw.githubusercontent.com/amoudgl/short-jokes-datas
 The dataset was loaded into PyTorch via a Dataset class defined in 'dataset.py' 
 
 Training of the model is implemented in 'train.py' which has a 'train' function to train the model on the data
-And a 'predict' function to make predictions and generate text.
+and a 'predict' function to make predictions and generate text.
 
 The program shows the 'epochs', 'batch', 'loss', and 100 predicted words.  
