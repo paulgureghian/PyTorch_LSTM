@@ -21,4 +21,6 @@ and a 'predict' function to make predictions and generate text.
 
 The program shows the 'epochs', 'batch', 'loss', and 100 predicted words.
 
-To run the program, first 'git' clone the repo, navigate to the project folder in terminal, and run the 'train.py' script like this:  $ python3 train.py  or chmod 777 train.py then ./train.py
+To run the program, first 'git' clone the repo, navigate to the project folder in terminal, and run the 'train.py' script like this:  
+
+$ python3 train.py  or chmod 777 train.py then ./train.py
